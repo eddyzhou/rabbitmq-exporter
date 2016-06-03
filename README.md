@@ -2,6 +2,10 @@
 
 Prometheus exporter for RabbitMQ metrics, based on RabbitMQ HTTP API.
 
+### Dependencies
+
+Python3.5+
+
 ### Metrics
 
 Total number of:
